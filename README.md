@@ -1,2 +1,2 @@
 # default
-infra.Go default imports.
+infra.Go default.
